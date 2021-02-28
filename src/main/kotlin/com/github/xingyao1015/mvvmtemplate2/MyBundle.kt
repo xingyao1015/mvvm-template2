@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.xingyao1015.mvvmtemplate2
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
